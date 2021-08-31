@@ -1,0 +1,24 @@
+﻿  Blok.cpp
+D:\muhammet\dersler\2020-2021\2.semester\Oyun_Programlamaya_Giris\SFML\Pencere\Bloklar.hpp(3,9): fatal error C1083: içerme dosyası açılamıyor: 'SFML/Graphics.hpp': No such file or directory
+  Bloklar.cpp
+D:\muhammet\dersler\2020-2021\2.semester\Oyun_Programlamaya_Giris\SFML\Pencere\Bloklar.hpp(3,9): fatal error C1083: içerme dosyası açılamıyor: 'SFML/Graphics.hpp': No such file or directory
+  Buton.cpp
+D:\muhammet\dersler\2020-2021\2.semester\Oyun_Programlamaya_Giris\SFML\Pencere\Buton.hpp(3,9): fatal error C1083: içerme dosyası açılamıyor: 'SFML/Graphics.hpp': No such file or directory
+  main.cpp
+D:\muhammet\dersler\2020-2021\2.semester\Oyun_Programlamaya_Giris\SFML\Pencere\main.cpp(1,10): fatal error C1083: içerme dosyası açılamıyor: 'SFML/Graphics.hpp': No such file or directory
+  Oyun.cpp
+D:\muhammet\dersler\2020-2021\2.semester\Oyun_Programlamaya_Giris\SFML\Pencere\Pencere.hpp(2,9): fatal error C1083: içerme dosyası açılamıyor: 'SFML/Graphics.hpp': No such file or directory
+  Pencere.cpp
+D:\muhammet\dersler\2020-2021\2.semester\Oyun_Programlamaya_Giris\SFML\Pencere\Pencere.hpp(2,9): fatal error C1083: içerme dosyası açılamıyor: 'SFML/Graphics.hpp': No such file or directory
+  PencereAraci.cpp
+D:\muhammet\dersler\2020-2021\2.semester\Oyun_Programlamaya_Giris\SFML\Pencere\PencereAraci.hpp(2,9): fatal error C1083: içerme dosyası açılamıyor: 'SFML/Window/Event.hpp': No such file or directory
+  Raket.cpp
+D:\muhammet\dersler\2020-2021\2.semester\Oyun_Programlamaya_Giris\SFML\Pencere\Raket.hpp(2,10): fatal error C1083: içerme dosyası açılamıyor: 'SFML/Graphics.hpp': No such file or directory
+  Sahne.cpp
+D:\muhammet\dersler\2020-2021\2.semester\Oyun_Programlamaya_Giris\SFML\Pencere\Sahne.hpp(3,9): fatal error C1083: içerme dosyası açılamıyor: 'SFML/Graphics.hpp': No such file or directory
+  Top.cpp
+D:\muhammet\dersler\2020-2021\2.semester\Oyun_Programlamaya_Giris\SFML\Pencere\Top.hpp(2,10): fatal error C1083: içerme dosyası açılamıyor: 'SFML/Graphics.hpp': No such file or directory
+  Yilan.cpp
+D:\muhammet\dersler\2020-2021\2.semester\Oyun_Programlamaya_Giris\SFML\Pencere\YilanHucre.hpp(3,9): fatal error C1083: içerme dosyası açılamıyor: 'SFML/Graphics.hpp': No such file or directory
+  YilanHucre.cpp
+D:\muhammet\dersler\2020-2021\2.semester\Oyun_Programlamaya_Giris\SFML\Pencere\YilanHucre.hpp(3,9): fatal error C1083: içerme dosyası açılamıyor: 'SFML/Graphics.hpp': No such file or directory

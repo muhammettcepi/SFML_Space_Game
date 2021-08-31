@@ -1,0 +1,17 @@
+﻿  Oyun.cpp
+D:\muhammet\dersler\2020-2021\2.semester\Oyun_Programlamaya_Giris\SFML\Pencere\Oyun.cpp(14,32): warning C4244: 'bağımsız değişken': 'T' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=unsigned int
+          ]
+D:\muhammet\dersler\2020-2021\2.semester\Oyun_Programlamaya_Giris\SFML\Pencere\Oyun.cpp(14,23): warning C4244: 'bağımsız değişken': 'T' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=unsigned int
+          ]
+D:\muhammet\dersler\2020-2021\2.semester\Oyun_Programlamaya_Giris\SFML\Pencere\Oyun.cpp(20,19): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  Sahne.cpp
+D:\muhammet\dersler\2020-2021\2.semester\Oyun_Programlamaya_Giris\SFML\Pencere\Sahne.cpp(5,22): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  main.cpp
+  Kod Üretiliyor...
+  Pencere.vcxproj -> D:\muhammet\dersler\2020-2021\2.semester\Oyun_Programlamaya_Giris\Dependencies\bin\Pencere.exe
